@@ -1,3 +1,5 @@
+# View Deployment on Vercel
+[View this app in Vercel](https://venus-spotify-fun.vercel.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
