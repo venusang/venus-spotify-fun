@@ -5,7 +5,7 @@ import axios from 'axios';
 function App() {
 
   const CLIENT_ID = '94bbff352aab4282a4a0c91f776520c0'
-  const REDIRECT_URI = 'http://venus-spotify-fun.vercel.app/'
+  const REDIRECT_URI = 'http://localhost:3000'
   const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize"
   const RESPONSE_TYPE = "token"
 
