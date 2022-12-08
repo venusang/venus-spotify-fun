@@ -1,5 +1,10 @@
 # View Deployment on Vercel
 [View this app in Vercel](https://venus-spotify-fun.vercel.app/)
+
+# Spotify API in your React App tutorial
+
+[https://dev.to/dom_the_dev/how-to-use-the-spotify-api-in-your-react-js-app-50pn](https://dev.to/dom_the_dev/how-to-use-the-spotify-api-in-your-react-js-app-50pn)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
